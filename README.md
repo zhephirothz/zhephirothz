@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm the builder behind JORVOR. 
+I don't just write code; 
+I engineer creative solutions for whatever problem I face.
 
 <!--
 **zhephirothz/zhephirothz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
